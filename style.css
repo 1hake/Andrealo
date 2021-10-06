@@ -1,0 +1,13 @@
+body,
+html {
+  margin: 0;
+}
+
+.image {
+  background-image: url("https://andrealo.tv/home.jpg");
+
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  height: 1200vh;
+}
